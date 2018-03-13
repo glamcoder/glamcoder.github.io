@@ -3,13 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://glamcoder.org/posts/hello/</loc>
-    <lastmod>2018-03-10T23:35:51+01:00</lastmod>
+    <loc>http://glamcoder.org/about/</loc>
+    <lastmod>2018-03-10T23:33:07+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://glamcoder.org/about/</loc>
-    <lastmod>2018-03-10T23:33:07+01:00</lastmod>
+    <loc>http://glamcoder.org/azure-websites-testing-in-production-to-win-en/</loc>
+    <lastmod>2014-12-14T09:32:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://glamcoder.org/tags/a/b-testing/</loc>
+    <lastmod>2014-12-14T09:32:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://glamcoder.org/tags/azure-websites/</loc>
+    <lastmod>2014-12-14T09:32:51+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -19,18 +31,37 @@
   
   <url>
     <loc>http://glamcoder.org/</loc>
-    <lastmod>2018-03-10T23:35:51+01:00</lastmod>
+    <lastmod>2018-03-10T23:33:07+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://glamcoder.org/categories/microsoft-azure/</loc>
+    <lastmod>2014-12-14T09:32:51+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://glamcoder.org/posts/</loc>
-    <lastmod>2018-03-10T23:35:51+01:00</lastmod>
+    <lastmod>2014-12-14T09:32:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://glamcoder.org/tags/split-testing/</loc>
+    <lastmod>2014-12-14T09:32:51+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://glamcoder.org/tags/</loc>
+    <lastmod>2014-12-14T09:32:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://glamcoder.org/tags/testing-in-production/</loc>
+    <lastmod>2014-12-14T09:32:51+00:00</lastmod>
     <priority>0</priority>
   </url>
   
