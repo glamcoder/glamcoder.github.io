@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blob on Georgiy Mogelashvili</title>
+    <link>http://glamcoder.org/tags/blob/</link>
+    <description>Recent content in Blob on Georgiy Mogelashvili</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 31 Mar 2013 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://glamcoder.org/tags/blob/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Russian] Мобильные сервисы, блобы и Windows 8. Храним данные в Windows Azure</title>
+      <link>http://glamcoder.org/conferences/codefest-2013/</link>
+      <pubDate>Sun, 31 Mar 2013 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/conferences/codefest-2013/</guid>
+      <description>https://2018.codefest.ru/lecture/51/
+В докладе будет на практическом примере рассказано о двух способах хранения данных мобильного приложения в Windows Azure. Для больших и редкоиспользуемых данных будет использоваться Azure Blob Storage, в то время как для данных мелкого объема мы воспользуемся Windows Azure Mobile Services. На примере приложения для Windows 8 и Windows Phone 8 будет показан способ работы с этими хранилищами с помощью .NET SDK и веб-сервисов.</description>
+    </item>
+    
+  </channel>
+</rss>

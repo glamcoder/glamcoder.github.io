@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Georgiy Mogelashvili</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 14 Dec 2014 09:32:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2015 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://glamcoder.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,36 +14,99 @@
     <item>
       <title>A/B Testing</title>
       <link>http://glamcoder.org/tags/a/b-testing/</link>
-      <pubDate>Sun, 14 Dec 2014 09:32:51 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2015 00:00:00 -0400</pubDate>
       
       <guid>http://glamcoder.org/tags/a/b-testing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Azure Websites</title>
-      <link>http://glamcoder.org/tags/azure-websites/</link>
-      <pubDate>Sun, 14 Dec 2014 09:32:51 +0000</pubDate>
+      <title>Apps</title>
+      <link>http://glamcoder.org/tags/apps/</link>
+      <pubDate>Tue, 17 Nov 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/tags/azure-websites/</guid>
+      <guid>http://glamcoder.org/tags/apps/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Split Testing</title>
-      <link>http://glamcoder.org/tags/split-testing/</link>
-      <pubDate>Sun, 14 Dec 2014 09:32:51 +0000</pubDate>
+      <title>Autonomy</title>
+      <link>http://glamcoder.org/tags/autonomy/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/tags/split-testing/</guid>
+      <guid>http://glamcoder.org/tags/autonomy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Testing in Production</title>
-      <link>http://glamcoder.org/tags/testing-in-production/</link>
-      <pubDate>Sun, 14 Dec 2014 09:32:51 +0000</pubDate>
+      <title>Azure</title>
+      <link>http://glamcoder.org/tags/azure/</link>
+      <pubDate>Sat, 28 Nov 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/tags/testing-in-production/</guid>
+      <guid>http://glamcoder.org/tags/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backend</title>
+      <link>http://glamcoder.org/tags/backend/</link>
+      <pubDate>Sat, 29 Mar 2014 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/tags/backend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blob</title>
+      <link>http://glamcoder.org/tags/blob/</link>
+      <pubDate>Sun, 31 Mar 2013 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/tags/blob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>http://glamcoder.org/tags/cloud/</link>
+      <pubDate>Sat, 28 Nov 2015 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gta</title>
+      <link>http://glamcoder.org/tags/gta/</link>
+      <pubDate>Tue, 17 Nov 2015 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/tags/gta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile</title>
+      <link>http://glamcoder.org/tags/mobile/</link>
+      <pubDate>Tue, 17 Nov 2015 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/tags/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Servant Leadership</title>
+      <link>http://glamcoder.org/tags/servant-leadership/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/tags/servant-leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team Lead</title>
+      <link>http://glamcoder.org/tags/team-lead/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/tags/team-lead/</guid>
       <description></description>
     </item>
     

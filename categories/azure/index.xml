@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A/B Testing on Georgiy Mogelashvili</title>
-    <link>http://glamcoder.org/tags/a/b-testing/</link>
-    <description>Recent content in A/B Testing on Georgiy Mogelashvili</description>
+    <title>Azure on Georgiy Mogelashvili</title>
+    <link>http://glamcoder.org/categories/azure/</link>
+    <description>Recent content in Azure on Georgiy Mogelashvili</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 28 Nov 2015 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://glamcoder.org/tags/a/b-testing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://glamcoder.org/categories/azure/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -39,6 +39,26 @@ Do you have a website? If yes then how do you test ideas that you want to implem
       <guid>http://glamcoder.org/conferences/devcon-2015/</guid>
       <description>https://channel9.msdn.com/Events/DevCon/Russia-2015/CortanaD2S07en
 Users will probably not feel happy about every single developer&amp;rsquo;s solution implemented in your web site. Make decision-making more reliable leveraging A/B testing. During this presentation you will learn what is it, how to configure A/B tests in Microsoft Azure cloud simply and quickly, and then analyze the results on the example of a small project.</description>
+    </item>
+    
+    <item>
+      <title>[Russian] Мастер-класс: Облачный бекенд для мобильных устройств своими руками</title>
+      <link>http://glamcoder.org/conferences/codefest-2014/</link>
+      <pubDate>Sat, 29 Mar 2014 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/conferences/codefest-2014/</guid>
+      <description>https://2018.codefest.ru/lecture/975/
+На этом мастер-классе вы сможете научиться работать с облачными технологиями и самостоятельно добавить в свое мобильное приложение такие полезные вещи, как: авторизация через соц сети, push-уведомления и облачный бекенд. Причем не только для Windows!</description>
+    </item>
+    
+    <item>
+      <title>[Russian] Мобильные сервисы, блобы и Windows 8. Храним данные в Windows Azure</title>
+      <link>http://glamcoder.org/conferences/codefest-2013/</link>
+      <pubDate>Sun, 31 Mar 2013 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/conferences/codefest-2013/</guid>
+      <description>https://2018.codefest.ru/lecture/51/
+В докладе будет на практическом примере рассказано о двух способах хранения данных мобильного приложения в Windows Azure. Для больших и редкоиспользуемых данных будет использоваться Azure Blob Storage, в то время как для данных мелкого объема мы воспользуемся Windows Azure Mobile Services. На примере приложения для Windows 8 и Windows Phone 8 будет показан способ работы с этими хранилищами с помощью .NET SDK и веб-сервисов.</description>
     </item>
     
   </channel>

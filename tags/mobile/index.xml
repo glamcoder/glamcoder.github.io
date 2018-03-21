@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile on Georgiy Mogelashvili</title>
+    <link>http://glamcoder.org/tags/mobile/</link>
+    <description>Recent content in Mobile on Georgiy Mogelashvili</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Nov 2015 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://glamcoder.org/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GTA: How to make your visitors Get The App</title>
+      <link>http://glamcoder.org/conferences/topconf-2015/</link>
+      <pubDate>Tue, 17 Nov 2015 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/conferences/topconf-2015/</guid>
+      <description>Mobile apps become more and more significant part of our life. There are already &amp;ldquo;apps only&amp;rdquo; hyper-popular services like Instagram or Uber. If you have a website but also a mobile app, some day you might end up loosing your users if you won&amp;rsquo;t advertise your app properly on your website. During this talk I will demonstrate you some techniques we use at Booking.com to make our visitors Get The App.</description>
+    </item>
+    
+    <item>
+      <title>GTA: How to make your visitors Get The App</title>
+      <link>http://glamcoder.org/conferences/mobileappeurope-2015/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/conferences/mobileappeurope-2015/</guid>
+      <description>Mobile apps become more and more significant part of our life. There are already &amp;ldquo;apps only&amp;rdquo; hyper-popular services like Instagram or Uber. If you have a website but also a mobile app, some day you might end up loosing your users if you won&amp;rsquo;t advertise your app properly on your website. During this talk I will demonstrate you some techniques we use at Booking.com to make our visitors Get The App.</description>
+    </item>
+    
+    <item>
+      <title>[Russian] Мастер-класс: Облачный бекенд для мобильных устройств своими руками</title>
+      <link>http://glamcoder.org/conferences/codefest-2014/</link>
+      <pubDate>Sat, 29 Mar 2014 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/conferences/codefest-2014/</guid>
+      <description>https://2018.codefest.ru/lecture/975/
+На этом мастер-классе вы сможете научиться работать с облачными технологиями и самостоятельно добавить в свое мобильное приложение такие полезные вещи, как: авторизация через соц сети, push-уведомления и облачный бекенд. Причем не только для Windows!</description>
+    </item>
+    
+    <item>
+      <title>[Russian] Мобильные сервисы, блобы и Windows 8. Храним данные в Windows Azure</title>
+      <link>http://glamcoder.org/conferences/codefest-2013/</link>
+      <pubDate>Sun, 31 Mar 2013 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/conferences/codefest-2013/</guid>
+      <description>https://2018.codefest.ru/lecture/51/
+В докладе будет на практическом примере рассказано о двух способах хранения данных мобильного приложения в Windows Azure. Для больших и редкоиспользуемых данных будет использоваться Azure Blob Storage, в то время как для данных мелкого объема мы воспользуемся Windows Azure Mobile Services. На примере приложения для Windows 8 и Windows Phone 8 будет показан способ работы с этими хранилищами с помощью .NET SDK и веб-сервисов.</description>
+    </item>
+    
+  </channel>
+</rss>

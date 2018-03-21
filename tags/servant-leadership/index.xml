@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Servant Leadership on Georgiy Mogelashvili</title>
+    <link>http://glamcoder.org/tags/servant-leadership/</link>
+    <description>Recent content in Servant Leadership on Georgiy Mogelashvili</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://glamcoder.org/tags/servant-leadership/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Russian] Быть лидером, а не боссом. Автономия и Servant Leadership в управлении командами.</title>
+      <link>http://glamcoder.org/conferences/codefest-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/conferences/codefest-2018/</guid>
+      <description>https://2018.codefest.ru/lecture/1247/
+Быть лидером, а не боссом. Эта простая фраза известна всем, и воспринимается как должное. Однако же в жизни нередки случаи, когда тимлид в твоей команде берет на себя всю ответственность и все решения, не оставляя никакой свободы своим подчинённым.
+Такое было и в Booking.com некоторое время назад. Роль тимлида подразумевала полную ответственность за команду и процессы - работа с трекерами, организация митингов (планирования, ретроспектив и тп), работа с людьми.</description>
+    </item>
+    
+    <item>
+      <title>[Russian] Из закрытой касты в Servant Leader - эволюция тимлида в Booking.com</title>
+      <link>http://glamcoder.org/conferences/teamleadconf-2018/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/conferences/teamleadconf-2018/</guid>
+      <description>http://teamleadconf.ru/2018/abstracts/3168
+Компания Booking.com существует уже больше 20 лет. За это время она выросла от небольшого голландского стартапа до крупной международной корпорации, лидера на рынке онлайн путешествий, с офисами по всему миру.
+За последние несколько лет Booking.com увеличил количество сотрудников в IT департаменте. И это повлекло за собой изменения в роли тимлида. Мы прошли путь от причастности тимлида к ограниченному кругу людей (&amp;ldquo;касте&amp;rdquo;), частичного отказа от лидов на какое-то время в пользу автономных команд, и до их возвращения под новой концепцией &amp;ldquo;Servant Leader&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
