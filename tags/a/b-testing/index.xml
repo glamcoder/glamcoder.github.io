@@ -22,13 +22,24 @@ Do you have a website? If yes then how do you test ideas that you want to implem
     </item>
     
     <item>
+      <title>How to do A/B tests with Azure Websites Traffic Routing</title>
+      <link>http://glamcoder.org/conferences/topconf-2015/</link>
+      <pubDate>Tue, 17 Nov 2015 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/conferences/topconf-2015/</guid>
+      <description>Do you have a website? If yes then how do you test ideas that you want to implement? What if your brand new solution will ruin user experience? And what if you have a critical bug being deployed to production? From this talk you will know how to A/B test your web applications more confidently and safely with new Azure Websites Traffic Routing services.
+ </description>
+    </item>
+    
+    <item>
       <title>A/B test with azure websites traffic routing</title>
       <link>http://glamcoder.org/conferences/devdaykyiv-2015/</link>
       <pubDate>Fri, 30 Oct 2015 00:00:00 -0400</pubDate>
       
       <guid>http://glamcoder.org/conferences/devdaykyiv-2015/</guid>
       <description>https://devday.in.ua/#program
-Do you have a website? If yes then how do you test ideas that you want to implement? What if your brand new solution will ruin user experience? And what if you have a critical bug being deployed to production? From this talk you will know how to A/B test your web applications more confidently and safely with new Azure Websites Traffic Routing services.</description>
+Do you have a website? If yes then how do you test ideas that you want to implement? What if your brand new solution will ruin user experience? And what if you have a critical bug being deployed to production? From this talk you will know how to A/B test your web applications more confidently and safely with new Azure Websites Traffic Routing services.
+ </description>
     </item>
     
     <item>
@@ -37,8 +48,8 @@ Do you have a website? If yes then how do you test ideas that you want to implem
       <pubDate>Fri, 29 May 2015 00:00:00 -0400</pubDate>
       
       <guid>http://glamcoder.org/conferences/devcon-2015/</guid>
-      <description>https://channel9.msdn.com/Events/DevCon/Russia-2015/CortanaD2S07en
-Users will probably not feel happy about every single developer&amp;rsquo;s solution implemented in your web site. Make decision-making more reliable leveraging A/B testing. During this presentation you will learn what is it, how to configure A/B tests in Microsoft Azure cloud simply and quickly, and then analyze the results on the example of a small project.</description>
+      <description>Users will probably not feel happy about every single developer&amp;rsquo;s solution implemented in your web site. Make decision-making more reliable leveraging A/B testing. During this presentation you will learn what is it, how to configure A/B tests in Microsoft Azure cloud simply and quickly, and then analyze the results on the example of a small project.
+ </description>
     </item>
     
   </channel>
