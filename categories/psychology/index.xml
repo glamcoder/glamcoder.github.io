@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psychology on Georgiy Mogelashvili</title>
+    <link>http://glamcoder.org/categories/psychology/</link>
+    <description>Recent content in Psychology on Georgiy Mogelashvili</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://glamcoder.org/categories/psychology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Russian] Game of Roles: как мы играючи решили проблему роста сотрудников в Booking.com</title>
+      <link>http://glamcoder.org/conferences/aletheia-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/conferences/aletheia-2018/</guid>
+      <description>http://conf.aletheia.business/2018/abstracts/3209
+Придя в Booking.com, любой разработчик (дизайнер, копирайтер и другие) начинает задаваться вопросом роста в компании. Траектории роста, как правило, направлены либо в техническую сторону (core -&amp;gt; senior developer), либо в сторону менеджмента (core developer -&amp;gt; team lead). Рост в обоих направлениях подразумевает наличие определенных навыков и способностей у человека, и никак не связан с &amp;ldquo;выслугой лет&amp;rdquo; или указаниями сверху.
+Несмотря на достаточно подробное описание требуемых навыков, наличия информации о процессе роста, наличия поддержки коллег (как синьоров, так и тимлидов), у нас возникла проблема, когда многие сотрудники до конца не понимали, что же именно надо &amp;ldquo;качать&amp;rdquo; в себе, чтобы вырасти.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,15 +6,37 @@
     <description>Recent content in Conferences on Georgiy Mogelashvili</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 05 May 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://glamcoder.org/conferences/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Teams management journey through autonomy to servant leadership</title>
+      <link>http://glamcoder.org/conferences/qconnewyork-2018/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/conferences/qconnewyork-2018/</guid>
+      <description>https://qconnewyork.com/ny2018/speakers/georgiy-mogelashvili
+Being a leader, not a boss. This simple phrase is well known to everyone. However there are lots of situations in real life when team lead takes full control within their teams, leaving team members without any autonomy in decisions and actions.
+Same was in Booking.com some time ago. Team leads were the only people responsible for teams processes, people, meetings and everything. But then organization began to grow tremendously.</description>
+    </item>
+    
+    <item>
+      <title>[Russian] Game of Roles: как мы играючи решили проблему роста сотрудников в Booking.com</title>
+      <link>http://glamcoder.org/conferences/aletheia-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/conferences/aletheia-2018/</guid>
+      <description>http://conf.aletheia.business/2018/abstracts/3209
+Придя в Booking.com, любой разработчик (дизайнер, копирайтер и другие) начинает задаваться вопросом роста в компании. Траектории роста, как правило, направлены либо в техническую сторону (core -&amp;gt; senior developer), либо в сторону менеджмента (core developer -&amp;gt; team lead). Рост в обоих направлениях подразумевает наличие определенных навыков и способностей у человека, и никак не связан с &amp;ldquo;выслугой лет&amp;rdquo; или указаниями сверху.
+Несмотря на достаточно подробное описание требуемых навыков, наличия информации о процессе роста, наличия поддержки коллег (как синьоров, так и тимлидов), у нас возникла проблема, когда многие сотрудники до конца не понимали, что же именно надо &amp;ldquo;качать&amp;rdquo; в себе, чтобы вырасти.</description>
+    </item>
+    
+    <item>
       <title>[Russian] Быть лидером, а не боссом. Автономия и Servant Leadership в управлении командами.</title>
       <link>http://glamcoder.org/conferences/codefest-2018/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 -0400</pubDate>
       
       <guid>http://glamcoder.org/conferences/codefest-2018/</guid>
       <description>https://2018.codefest.ru/lecture/1247/
