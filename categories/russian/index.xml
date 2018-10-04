@@ -6,15 +6,25 @@
     <description>Recent content in Russian on Georgiy Mogelashvili</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://glamcoder.org/categories/russian/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>[Russian] Круглый стол &#34;Как измерить программиста&#34;</title>
+      <link>http://glamcoder.org/conferences/saintteamlead-2018/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/conferences/saintteamlead-2018/</guid>
+      <description>https://teamleadconf.ru/spb/2018/abstracts/3755
+Это будет не доклад одного спикера, а круглый стол с экспертами из разных организаций. Мы все вместе и с помощью зала попробуем обсудить и понять, как же оценивать производительность разработчиков. Предвидится много споров, но однозначно будет и много пользы.</description>
+    </item>
+    
+    <item>
       <title>[Russian] Game of Roles: как мы играючи решили проблему роста сотрудников в Booking.com</title>
       <link>http://glamcoder.org/conferences/aletheia-2018/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 28 May 2018 00:00:00 -0400</pubDate>
       
       <guid>http://glamcoder.org/conferences/aletheia-2018/</guid>
       <description>http://conf.aletheia.business/2018/abstracts/3209

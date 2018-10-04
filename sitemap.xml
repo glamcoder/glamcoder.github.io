@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://glamcoder.org/conferences/qconsf-2018/</loc>
+    <lastmod>2018-10-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://glamcoder.org/conferences/saintteamlead-2018/</loc>
+    <lastmod>2018-09-24T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://glamcoder.org/conferences/aletheia-2018/</loc>
+    <lastmod>2018-05-28T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://glamcoder.org/conferences/ctoschool-2018/</loc>
     <lastmod>2018-05-05T00:00:00-04:00</lastmod>
   </url>
@@ -10,11 +25,6 @@
   <url>
     <loc>http://glamcoder.org/conferences/qconnewyork-2018/</loc>
     <lastmod>2018-05-05T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://glamcoder.org/conferences/aletheia-2018/</loc>
-    <lastmod>2018-05-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -129,7 +139,7 @@
   
   <url>
     <loc>http://glamcoder.org/conferences/</loc>
-    <lastmod>2018-05-05T00:00:00-04:00</lastmod>
+    <lastmod>2018-10-01T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -141,31 +151,31 @@
   
   <url>
     <loc>http://glamcoder.org/tags/game-of-roles/</loc>
-    <lastmod>2018-05-01T00:00:00-04:00</lastmod>
+    <lastmod>2018-10-01T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://glamcoder.org/tags/gamification/</loc>
-    <lastmod>2018-05-01T00:00:00-04:00</lastmod>
+    <lastmod>2018-10-01T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://glamcoder.org/categories/gamification/</loc>
-    <lastmod>2018-05-01T00:00:00-04:00</lastmod>
+    <lastmod>2018-10-01T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://glamcoder.org/</loc>
-    <lastmod>2018-05-05T00:00:00-04:00</lastmod>
+    <lastmod>2018-10-01T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://glamcoder.org/tags/growth/</loc>
-    <lastmod>2018-05-01T00:00:00-04:00</lastmod>
+    <lastmod>2018-10-01T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -177,19 +187,19 @@
   
   <url>
     <loc>http://glamcoder.org/categories/hr/</loc>
-    <lastmod>2018-05-01T00:00:00-04:00</lastmod>
+    <lastmod>2018-10-01T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://glamcoder.org/categories/leadership/</loc>
-    <lastmod>2018-05-05T00:00:00-04:00</lastmod>
+    <lastmod>2018-09-24T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://glamcoder.org/categories/management/</loc>
-    <lastmod>2018-05-05T00:00:00-04:00</lastmod>
+    <lastmod>2018-09-24T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -206,14 +216,26 @@
   </url>
   
   <url>
+    <loc>http://glamcoder.org/tags/performance/</loc>
+    <lastmod>2018-09-24T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://glamcoder.org/categories/psychology/</loc>
-    <lastmod>2018-05-01T00:00:00-04:00</lastmod>
+    <lastmod>2018-10-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://glamcoder.org/tags/roundtable/</loc>
+    <lastmod>2018-09-24T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://glamcoder.org/categories/russian/</loc>
-    <lastmod>2018-05-01T00:00:00-04:00</lastmod>
+    <lastmod>2018-09-24T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
