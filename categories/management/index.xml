@@ -6,10 +6,33 @@
     <description>Recent content in Management on Georgiy Mogelashvili</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://glamcoder.org/categories/management/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Russian] Эффективные 1-на-1</title>
+      <link>http://glamcoder.org/conferences/codefest-2019/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/conferences/codefest-2019/</guid>
+      <description>https://2019.codefest.ru/lecture/1382
+Любой тимлид должен знать своих людей. Это нужно для того, чтобы помогать им расти, преодолевать трудности, вовремя замечать проблемы и искать пути их решения.
+А как лучше всего можно узнать своих людей? Конечно же, разговаривая с ними один на один.
+Из этого доклада вы узнаете, как лучше всего проводить встречи 1-на-1 со своими подчинёнными, о чем на них говорить, и как это делать так, чтобы докопаться до сути и получить максимум пользы для всех.</description>
+    </item>
+    
+    <item>
+      <title>[Russian] (Почти) объективная оценка людей в IT</title>
+      <link>http://glamcoder.org/conferences/agiledays-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/conferences/agiledays-2019/</guid>
+      <description>https://agiledays.ru/#speaker-179
+Правильно ли художник кладёт краску на холст? А может ли поэт слагать стихи в два раза быстрее? Достаточно ли эффективно программист пишет код?
+Все эти вопросы поднимают одну общую проблему — как оценить деятельность творческих людей? К сожалению, пока ещё никому не удалось дать на это однозначный ответ и предложить универсальное решение. В Booking.com мы придумали и выстроили свои процессы, которые работают для более чем 1500 сотрудников в IT. Мы оцениваем людей не только по тому, что они делали, но и как они это делали, полагаясь на мнение не одного единственного руководителя/тимлида, а множества людей вокруг.</description>
+    </item>
     
     <item>
       <title>[Russian] Круглый стол &#34;Как измерить программиста&#34;</title>

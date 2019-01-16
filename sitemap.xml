@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://glamcoder.org/conferences/codefest-2019/</loc>
+    <lastmod>2019-01-02T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://glamcoder.org/conferences/agiledays-2019/</loc>
+    <lastmod>2019-01-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://glamcoder.org/conferences/qconsf-2018/</loc>
-    <lastmod>2018-10-01T00:00:00-04:00</lastmod>
+    <lastmod>2018-11-11T00:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -78,6 +88,12 @@
   </url>
   
   <url>
+    <loc>http://glamcoder.org/tags/1-on-1/</loc>
+    <lastmod>2019-01-02T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://glamcoder.org/tags/a/b-testing/</loc>
     <lastmod>2015-11-28T00:00:00-04:00</lastmod>
     <priority>0</priority>
@@ -139,7 +155,7 @@
   
   <url>
     <loc>http://glamcoder.org/conferences/</loc>
-    <lastmod>2018-10-01T00:00:00-04:00</lastmod>
+    <lastmod>2019-01-02T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -151,31 +167,31 @@
   
   <url>
     <loc>http://glamcoder.org/tags/game-of-roles/</loc>
-    <lastmod>2018-10-01T00:00:00-04:00</lastmod>
+    <lastmod>2018-11-11T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://glamcoder.org/tags/gamification/</loc>
-    <lastmod>2018-10-01T00:00:00-04:00</lastmod>
+    <lastmod>2018-11-11T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://glamcoder.org/categories/gamification/</loc>
-    <lastmod>2018-10-01T00:00:00-04:00</lastmod>
+    <lastmod>2018-11-11T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://glamcoder.org/</loc>
-    <lastmod>2018-10-01T00:00:00-04:00</lastmod>
+    <lastmod>2019-01-02T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://glamcoder.org/tags/growth/</loc>
-    <lastmod>2018-10-01T00:00:00-04:00</lastmod>
+    <lastmod>2018-11-11T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -187,19 +203,19 @@
   
   <url>
     <loc>http://glamcoder.org/categories/hr/</loc>
-    <lastmod>2018-10-01T00:00:00-04:00</lastmod>
+    <lastmod>2018-11-11T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://glamcoder.org/categories/leadership/</loc>
-    <lastmod>2018-09-24T00:00:00-04:00</lastmod>
+    <lastmod>2019-01-02T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://glamcoder.org/categories/management/</loc>
-    <lastmod>2018-09-24T00:00:00-04:00</lastmod>
+    <lastmod>2019-01-02T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -216,6 +232,18 @@
   </url>
   
   <url>
+    <loc>http://glamcoder.org/tags/one-on-one/</loc>
+    <lastmod>2019-01-02T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://glamcoder.org/tags/peformance-management/</loc>
+    <lastmod>2019-01-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://glamcoder.org/tags/performance/</loc>
     <lastmod>2018-09-24T00:00:00-04:00</lastmod>
     <priority>0</priority>
@@ -223,7 +251,7 @@
   
   <url>
     <loc>http://glamcoder.org/categories/psychology/</loc>
-    <lastmod>2018-10-01T00:00:00-04:00</lastmod>
+    <lastmod>2018-11-11T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -235,7 +263,7 @@
   
   <url>
     <loc>http://glamcoder.org/categories/russian/</loc>
-    <lastmod>2018-09-24T00:00:00-04:00</lastmod>
+    <lastmod>2019-01-02T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -247,13 +275,13 @@
   
   <url>
     <loc>http://glamcoder.org/tags/</loc>
-    <lastmod>2015-11-28T00:00:00-04:00</lastmod>
+    <lastmod>2019-01-02T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://glamcoder.org/tags/team-lead/</loc>
-    <lastmod>2018-05-05T00:00:00-04:00</lastmod>
+    <lastmod>2019-01-02T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   

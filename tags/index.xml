@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Georgiy Mogelashvili</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 28 Nov 2015 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://glamcoder.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1 on 1</title>
+      <link>http://glamcoder.org/tags/1-on-1/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/tags/1-on-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A/B Testing</title>
@@ -77,7 +86,7 @@
     <item>
       <title>Game of Roles</title>
       <link>http://glamcoder.org/tags/game-of-roles/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 -0400</pubDate>
       
       <guid>http://glamcoder.org/tags/game-of-roles/</guid>
       <description></description>
@@ -86,7 +95,7 @@
     <item>
       <title>Gamification</title>
       <link>http://glamcoder.org/tags/gamification/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 -0400</pubDate>
       
       <guid>http://glamcoder.org/tags/gamification/</guid>
       <description></description>
@@ -95,7 +104,7 @@
     <item>
       <title>Growth</title>
       <link>http://glamcoder.org/tags/growth/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 -0400</pubDate>
       
       <guid>http://glamcoder.org/tags/growth/</guid>
       <description></description>
@@ -116,6 +125,24 @@
       <pubDate>Mon, 21 Sep 2015 00:00:00 -0400</pubDate>
       
       <guid>http://glamcoder.org/tags/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One on One</title>
+      <link>http://glamcoder.org/tags/one-on-one/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/tags/one-on-one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peformance Management</title>
+      <link>http://glamcoder.org/tags/peformance-management/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://glamcoder.org/tags/peformance-management/</guid>
       <description></description>
     </item>
     
@@ -149,7 +176,7 @@
     <item>
       <title>Team Lead</title>
       <link>http://glamcoder.org/tags/team-lead/</link>
-      <pubDate>Sat, 05 May 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 -0400</pubDate>
       
       <guid>http://glamcoder.org/tags/team-lead/</guid>
       <description></description>
