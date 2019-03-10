@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobile on Georgiy Mogelashvili</title>
-    <link>http://glamcoder.org/categories/mobile/</link>
+    <link>https://glamcoder.org/categories/mobile/</link>
     <description>Recent content in Mobile on Georgiy Mogelashvili</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 21 Sep 2015 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://glamcoder.org/categories/mobile/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://glamcoder.org/categories/mobile/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GTA: How to make your visitors Get The App</title>
-      <link>http://glamcoder.org/conferences/mobileappeurope-2015/</link>
+      <link>https://glamcoder.org/conferences/mobileappeurope-2015/</link>
       <pubDate>Mon, 21 Sep 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/mobileappeurope-2015/</guid>
+      <guid>https://glamcoder.org/conferences/mobileappeurope-2015/</guid>
       <description>Mobile apps become more and more significant part of our life. There are already &amp;ldquo;apps only&amp;rdquo; hyper-popular services like Instagram or Uber. If you have a website but also a mobile app, some day you might end up loosing your users if you won&amp;rsquo;t advertise your app properly on your website. During this talk I will demonstrate you some techniques we use at Booking.com to make our visitors Get The App.</description>
     </item>
     

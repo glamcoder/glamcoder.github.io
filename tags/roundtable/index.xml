@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roundtable on Georgiy Mogelashvili</title>
-    <link>http://glamcoder.org/tags/roundtable/</link>
+    <link>https://glamcoder.org/tags/roundtable/</link>
     <description>Recent content in Roundtable on Georgiy Mogelashvili</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 24 Sep 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://glamcoder.org/tags/roundtable/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://glamcoder.org/tags/roundtable/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>[Russian] Круглый стол &#34;Как измерить программиста&#34;</title>
-      <link>http://glamcoder.org/conferences/saintteamlead-2018/</link>
+      <link>https://glamcoder.org/conferences/saintteamlead-2018/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/saintteamlead-2018/</guid>
+      <guid>https://glamcoder.org/conferences/saintteamlead-2018/</guid>
       <description>https://teamleadconf.ru/spb/2018/abstracts/3755
 Это будет не доклад одного спикера, а круглый стол с экспертами из разных организаций. Мы все вместе и с помощью зала попробуем обсудить и понять, как же оценивать производительность разработчиков. Предвидится много споров, но однозначно будет и много пользы.</description>
     </item>

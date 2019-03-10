@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leadership on Georgiy Mogelashvili</title>
-    <link>http://glamcoder.org/categories/leadership/</link>
+    <link>https://glamcoder.org/categories/leadership/</link>
     <description>Recent content in Leadership on Georgiy Mogelashvili</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 02 Jan 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://glamcoder.org/categories/leadership/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://glamcoder.org/categories/leadership/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>[Russian] Эффективные 1-на-1</title>
-      <link>http://glamcoder.org/conferences/codefest-2019/</link>
+      <link>https://glamcoder.org/conferences/codefest-2019/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/codefest-2019/</guid>
+      <guid>https://glamcoder.org/conferences/codefest-2019/</guid>
       <description>https://2019.codefest.ru/lecture/1382
 Любой тимлид должен знать своих людей. Это нужно для того, чтобы помогать им расти, преодолевать трудности, вовремя замечать проблемы и искать пути их решения.
 А как лучше всего можно узнать своих людей? Конечно же, разговаривая с ними один на один.
@@ -25,10 +25,10 @@
     
     <item>
       <title>[Russian] (Почти) объективная оценка людей в IT</title>
-      <link>http://glamcoder.org/conferences/agiledays-2019/</link>
+      <link>https://glamcoder.org/conferences/agiledays-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/agiledays-2019/</guid>
+      <guid>https://glamcoder.org/conferences/agiledays-2019/</guid>
       <description>https://agiledays.ru/#speaker-179
 Правильно ли художник кладёт краску на холст? А может ли поэт слагать стихи в два раза быстрее? Достаточно ли эффективно программист пишет код?
 Все эти вопросы поднимают одну общую проблему — как оценить деятельность творческих людей? К сожалению, пока ещё никому не удалось дать на это однозначный ответ и предложить универсальное решение. В Booking.com мы придумали и выстроили свои процессы, которые работают для более чем 1500 сотрудников в IT. Мы оцениваем людей не только по тому, что они делали, но и как они это делали, полагаясь на мнение не одного единственного руководителя/тимлида, а множества людей вокруг.</description>
@@ -36,40 +36,40 @@
     
     <item>
       <title>[Russian] Круглый стол &#34;Как измерить программиста&#34;</title>
-      <link>http://glamcoder.org/conferences/saintteamlead-2018/</link>
+      <link>https://glamcoder.org/conferences/saintteamlead-2018/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/saintteamlead-2018/</guid>
+      <guid>https://glamcoder.org/conferences/saintteamlead-2018/</guid>
       <description>https://teamleadconf.ru/spb/2018/abstracts/3755
 Это будет не доклад одного спикера, а круглый стол с экспертами из разных организаций. Мы все вместе и с помощью зала попробуем обсудить и понять, как же оценивать производительность разработчиков. Предвидится много споров, но однозначно будет и много пользы.</description>
     </item>
     
     <item>
       <title>The Story of Teams Autonomy and Servant Leadership</title>
-      <link>http://glamcoder.org/conferences/ctoschool-2018/</link>
+      <link>https://glamcoder.org/conferences/ctoschool-2018/</link>
       <pubDate>Sat, 05 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/ctoschool-2018/</guid>
+      <guid>https://glamcoder.org/conferences/ctoschool-2018/</guid>
       <description>https://www.meetup.com/ctoschool/events/fgqzclyxjbpb/ https://www.meetup.com/ctoschool/
 When faced a tremendous growth, company may have a problem - how to motivate all their employees and set them for success? One of the possible solutions we experimented with at Booking.com was idea of having autonomous teams - teams without direct managers (team leads) and where each and every member was equally responsible for team dynamics and perfromance. We believed that through providing autonomy, people will drive their own and company&amp;rsquo;s performance.</description>
     </item>
     
     <item>
       <title>The Story of Teams Autonomy and Servant Leadership</title>
-      <link>http://glamcoder.org/conferences/qconnewyork-2018/</link>
+      <link>https://glamcoder.org/conferences/qconnewyork-2018/</link>
       <pubDate>Sat, 05 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/qconnewyork-2018/</guid>
+      <guid>https://glamcoder.org/conferences/qconnewyork-2018/</guid>
       <description>https://qconnewyork.com/ny2018/presentation/empowered-teams-presentation-0
 When faced a tremendous growth, company may have a problem - how to motivate all their employees and set them for success? One of the possible solutions we experimented with at Booking.com was idea of having autonomous teams - teams without direct managers (team leads) and where each and every member was equally responsible for team dynamics and perfromance. We believed that through providing autonomy, people will drive their own and company&amp;rsquo;s performance.</description>
     </item>
     
     <item>
       <title>[Russian] Быть лидером, а не боссом. Автономия и Servant Leadership в управлении командами.</title>
-      <link>http://glamcoder.org/conferences/codefest-2018/</link>
+      <link>https://glamcoder.org/conferences/codefest-2018/</link>
       <pubDate>Sat, 31 Mar 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/codefest-2018/</guid>
+      <guid>https://glamcoder.org/conferences/codefest-2018/</guid>
       <description>https://2018.codefest.ru/lecture/1247/
 Быть лидером, а не боссом. Эта простая фраза известна всем, и воспринимается как должное. Однако же в жизни нередки случаи, когда тимлид в твоей команде берет на себя всю ответственность и все решения, не оставляя никакой свободы своим подчинённым.
 Такое было и в Booking.com некоторое время назад. Роль тимлида подразумевала полную ответственность за команду и процессы - работа с трекерами, организация митингов (планирования, ретроспектив и тп), работа с людьми.</description>
@@ -77,10 +77,10 @@ When faced a tremendous growth, company may have a problem - how to motivate all
     
     <item>
       <title>[Russian] Из закрытой касты в Servant Leader - эволюция тимлида в Booking.com</title>
-      <link>http://glamcoder.org/conferences/teamleadconf-2018/</link>
+      <link>https://glamcoder.org/conferences/teamleadconf-2018/</link>
       <pubDate>Thu, 08 Feb 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/teamleadconf-2018/</guid>
+      <guid>https://glamcoder.org/conferences/teamleadconf-2018/</guid>
       <description>http://teamleadconf.ru/2018/abstracts/3168
 Компания Booking.com существует уже больше 20 лет. За это время она выросла от небольшого голландского стартапа до крупной международной корпорации, лидера на рынке онлайн путешествий, с офисами по всему миру.
 За последние несколько лет Booking.com увеличил количество сотрудников в IT департаменте. И это повлекло за собой изменения в роли тимлида. Мы прошли путь от причастности тимлида к ограниченному кругу людей (&amp;ldquo;касте&amp;rdquo;), частичного отказа от лидов на какое-то время в пользу автономных команд, и до их возвращения под новой концепцией &amp;ldquo;Servant Leader&amp;rdquo;.</description>

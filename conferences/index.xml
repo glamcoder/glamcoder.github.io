@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conferences on Georgiy Mogelashvili</title>
-    <link>http://glamcoder.org/conferences/</link>
+    <link>https://glamcoder.org/conferences/</link>
     <description>Recent content in Conferences on Georgiy Mogelashvili</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 02 Jan 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://glamcoder.org/conferences/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://glamcoder.org/conferences/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>[Russian] Эффективные 1-на-1</title>
-      <link>http://glamcoder.org/conferences/codefest-2019/</link>
+      <link>https://glamcoder.org/conferences/codefest-2019/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/codefest-2019/</guid>
+      <guid>https://glamcoder.org/conferences/codefest-2019/</guid>
       <description>https://2019.codefest.ru/lecture/1382
 Любой тимлид должен знать своих людей. Это нужно для того, чтобы помогать им расти, преодолевать трудности, вовремя замечать проблемы и искать пути их решения.
 А как лучше всего можно узнать своих людей? Конечно же, разговаривая с ними один на один.
@@ -25,10 +25,10 @@
     
     <item>
       <title>[Russian] (Почти) объективная оценка людей в IT</title>
-      <link>http://glamcoder.org/conferences/agiledays-2019/</link>
+      <link>https://glamcoder.org/conferences/agiledays-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/agiledays-2019/</guid>
+      <guid>https://glamcoder.org/conferences/agiledays-2019/</guid>
       <description>https://agiledays.ru/#speaker-179
 Правильно ли художник кладёт краску на холст? А может ли поэт слагать стихи в два раза быстрее? Достаточно ли эффективно программист пишет код?
 Все эти вопросы поднимают одну общую проблему — как оценить деятельность творческих людей? К сожалению, пока ещё никому не удалось дать на это однозначный ответ и предложить универсальное решение. В Booking.com мы придумали и выстроили свои процессы, которые работают для более чем 1500 сотрудников в IT. Мы оцениваем людей не только по тому, что они делали, но и как они это делали, полагаясь на мнение не одного единственного руководителя/тимлида, а множества людей вокруг.</description>
@@ -36,30 +36,30 @@
     
     <item>
       <title>How To: Developers&#39; Community Driven Career Growth</title>
-      <link>http://glamcoder.org/conferences/qconsf-2018/</link>
+      <link>https://glamcoder.org/conferences/qconsf-2018/</link>
       <pubDate>Sun, 11 Nov 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/qconsf-2018/</guid>
+      <guid>https://glamcoder.org/conferences/qconsf-2018/</guid>
       <description>https://qconsf.com/sf2018/presentation/how-developers-community-driven-career-growth
 Forget about classroom trainings - they are boring and can give you knowledge, but not practice nor skills. At Booking.com there are two developers, who invented the new way of education - online community marathon with heavy focus on self-reflection and practice - which already helped dozens of their colleagues grow and get promoted to Senior developer role. We call it Game of Roles and it already became an internal &amp;ldquo;franchise&amp;rdquo; to help people grow in other career roles (e.</description>
     </item>
     
     <item>
       <title>[Russian] Круглый стол &#34;Как измерить программиста&#34;</title>
-      <link>http://glamcoder.org/conferences/saintteamlead-2018/</link>
+      <link>https://glamcoder.org/conferences/saintteamlead-2018/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/saintteamlead-2018/</guid>
+      <guid>https://glamcoder.org/conferences/saintteamlead-2018/</guid>
       <description>https://teamleadconf.ru/spb/2018/abstracts/3755
 Это будет не доклад одного спикера, а круглый стол с экспертами из разных организаций. Мы все вместе и с помощью зала попробуем обсудить и понять, как же оценивать производительность разработчиков. Предвидится много споров, но однозначно будет и много пользы.</description>
     </item>
     
     <item>
       <title>[Russian] Game of Roles: как мы играючи решили проблему роста сотрудников в Booking.com</title>
-      <link>http://glamcoder.org/conferences/aletheia-2018/</link>
+      <link>https://glamcoder.org/conferences/aletheia-2018/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/aletheia-2018/</guid>
+      <guid>https://glamcoder.org/conferences/aletheia-2018/</guid>
       <description>http://conf.aletheia.business/2018/abstracts/3209
 Придя в Booking.com, любой разработчик (дизайнер, копирайтер и другие) начинает задаваться вопросом роста в компании. Траектории роста, как правило, направлены либо в техническую сторону (core -&amp;gt; senior developer), либо в сторону менеджмента (core developer -&amp;gt; team lead). Рост в обоих направлениях подразумевает наличие определенных навыков и способностей у человека, и никак не связан с &amp;ldquo;выслугой лет&amp;rdquo; или указаниями сверху.
 Несмотря на достаточно подробное описание требуемых навыков, наличия информации о процессе роста, наличия поддержки коллег (как синьоров, так и тимлидов), у нас возникла проблема, когда многие сотрудники до конца не понимали, что же именно надо &amp;ldquo;качать&amp;rdquo; в себе, чтобы вырасти.</description>
@@ -67,30 +67,30 @@ Forget about classroom trainings - they are boring and can give you knowledge, b
     
     <item>
       <title>The Story of Teams Autonomy and Servant Leadership</title>
-      <link>http://glamcoder.org/conferences/ctoschool-2018/</link>
+      <link>https://glamcoder.org/conferences/ctoschool-2018/</link>
       <pubDate>Sat, 05 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/ctoschool-2018/</guid>
+      <guid>https://glamcoder.org/conferences/ctoschool-2018/</guid>
       <description>https://www.meetup.com/ctoschool/events/fgqzclyxjbpb/ https://www.meetup.com/ctoschool/
 When faced a tremendous growth, company may have a problem - how to motivate all their employees and set them for success? One of the possible solutions we experimented with at Booking.com was idea of having autonomous teams - teams without direct managers (team leads) and where each and every member was equally responsible for team dynamics and perfromance. We believed that through providing autonomy, people will drive their own and company&amp;rsquo;s performance.</description>
     </item>
     
     <item>
       <title>The Story of Teams Autonomy and Servant Leadership</title>
-      <link>http://glamcoder.org/conferences/qconnewyork-2018/</link>
+      <link>https://glamcoder.org/conferences/qconnewyork-2018/</link>
       <pubDate>Sat, 05 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/qconnewyork-2018/</guid>
+      <guid>https://glamcoder.org/conferences/qconnewyork-2018/</guid>
       <description>https://qconnewyork.com/ny2018/presentation/empowered-teams-presentation-0
 When faced a tremendous growth, company may have a problem - how to motivate all their employees and set them for success? One of the possible solutions we experimented with at Booking.com was idea of having autonomous teams - teams without direct managers (team leads) and where each and every member was equally responsible for team dynamics and perfromance. We believed that through providing autonomy, people will drive their own and company&amp;rsquo;s performance.</description>
     </item>
     
     <item>
       <title>[Russian] Быть лидером, а не боссом. Автономия и Servant Leadership в управлении командами.</title>
-      <link>http://glamcoder.org/conferences/codefest-2018/</link>
+      <link>https://glamcoder.org/conferences/codefest-2018/</link>
       <pubDate>Sat, 31 Mar 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/codefest-2018/</guid>
+      <guid>https://glamcoder.org/conferences/codefest-2018/</guid>
       <description>https://2018.codefest.ru/lecture/1247/
 Быть лидером, а не боссом. Эта простая фраза известна всем, и воспринимается как должное. Однако же в жизни нередки случаи, когда тимлид в твоей команде берет на себя всю ответственность и все решения, не оставляя никакой свободы своим подчинённым.
 Такое было и в Booking.com некоторое время назад. Роль тимлида подразумевала полную ответственность за команду и процессы - работа с трекерами, организация митингов (планирования, ретроспектив и тп), работа с людьми.</description>
@@ -98,10 +98,10 @@ When faced a tremendous growth, company may have a problem - how to motivate all
     
     <item>
       <title>[Russian] Из закрытой касты в Servant Leader - эволюция тимлида в Booking.com</title>
-      <link>http://glamcoder.org/conferences/teamleadconf-2018/</link>
+      <link>https://glamcoder.org/conferences/teamleadconf-2018/</link>
       <pubDate>Thu, 08 Feb 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/teamleadconf-2018/</guid>
+      <guid>https://glamcoder.org/conferences/teamleadconf-2018/</guid>
       <description>http://teamleadconf.ru/2018/abstracts/3168
 Компания Booking.com существует уже больше 20 лет. За это время она выросла от небольшого голландского стартапа до крупной международной корпорации, лидера на рынке онлайн путешествий, с офисами по всему миру.
 За последние несколько лет Booking.com увеличил количество сотрудников в IT департаменте. И это повлекло за собой изменения в роли тимлида. Мы прошли путь от причастности тимлида к ограниченному кругу людей (&amp;ldquo;касте&amp;rdquo;), частичного отказа от лидов на какое-то время в пользу автономных команд, и до их возвращения под новой концепцией &amp;ldquo;Servant Leader&amp;rdquo;.</description>
@@ -109,30 +109,30 @@ When faced a tremendous growth, company may have a problem - how to motivate all
     
     <item>
       <title>A/B test with azure websites traffic routing</title>
-      <link>http://glamcoder.org/conferences/cloudbrew-2015/</link>
+      <link>https://glamcoder.org/conferences/cloudbrew-2015/</link>
       <pubDate>Sat, 28 Nov 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/cloudbrew-2015/</guid>
+      <guid>https://glamcoder.org/conferences/cloudbrew-2015/</guid>
       <description>http://www.cloudbrew.be/2015/
 Do you have a website? If yes then how do you test ideas that you want to implement? What if your brand new solution will ruin user experience? And what if you have a critical bug being deployed to production? From this talk you will know how to A/B test your web applications more confidently and safely with new Azure Websites Traffic Routing services.</description>
     </item>
     
     <item>
       <title>How to do A/B tests with Azure Websites Traffic Routing</title>
-      <link>http://glamcoder.org/conferences/topconf-2015/</link>
+      <link>https://glamcoder.org/conferences/topconf-2015/</link>
       <pubDate>Tue, 17 Nov 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/topconf-2015/</guid>
+      <guid>https://glamcoder.org/conferences/topconf-2015/</guid>
       <description>Do you have a website? If yes then how do you test ideas that you want to implement? What if your brand new solution will ruin user experience? And what if you have a critical bug being deployed to production? From this talk you will know how to A/B test your web applications more confidently and safely with new Azure Websites Traffic Routing services.
  </description>
     </item>
     
     <item>
       <title>A/B test with azure websites traffic routing</title>
-      <link>http://glamcoder.org/conferences/devdaykyiv-2015/</link>
+      <link>https://glamcoder.org/conferences/devdaykyiv-2015/</link>
       <pubDate>Fri, 30 Oct 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/devdaykyiv-2015/</guid>
+      <guid>https://glamcoder.org/conferences/devdaykyiv-2015/</guid>
       <description>https://devday.in.ua/#program
 Do you have a website? If yes then how do you test ideas that you want to implement? What if your brand new solution will ruin user experience? And what if you have a critical bug being deployed to production? From this talk you will know how to A/B test your web applications more confidently and safely with new Azure Websites Traffic Routing services.
  </description>
@@ -140,29 +140,29 @@ Do you have a website? If yes then how do you test ideas that you want to implem
     
     <item>
       <title>GTA: How to make your visitors Get The App</title>
-      <link>http://glamcoder.org/conferences/mobileappeurope-2015/</link>
+      <link>https://glamcoder.org/conferences/mobileappeurope-2015/</link>
       <pubDate>Mon, 21 Sep 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/mobileappeurope-2015/</guid>
+      <guid>https://glamcoder.org/conferences/mobileappeurope-2015/</guid>
       <description>Mobile apps become more and more significant part of our life. There are already &amp;ldquo;apps only&amp;rdquo; hyper-popular services like Instagram or Uber. If you have a website but also a mobile app, some day you might end up loosing your users if you won&amp;rsquo;t advertise your app properly on your website. During this talk I will demonstrate you some techniques we use at Booking.com to make our visitors Get The App.</description>
     </item>
     
     <item>
       <title>Web site cloud A/B testing - why, how and what to do with it</title>
-      <link>http://glamcoder.org/conferences/devcon-2015/</link>
+      <link>https://glamcoder.org/conferences/devcon-2015/</link>
       <pubDate>Fri, 29 May 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/devcon-2015/</guid>
+      <guid>https://glamcoder.org/conferences/devcon-2015/</guid>
       <description>Users will probably not feel happy about every single developer&amp;rsquo;s solution implemented in your web site. Make decision-making more reliable leveraging A/B testing. During this presentation you will learn what is it, how to configure A/B tests in Microsoft Azure cloud simply and quickly, and then analyze the results on the example of a small project.
  </description>
     </item>
     
     <item>
       <title>[Russian] Мастер-класс: Облачный бекенд для мобильных устройств своими руками</title>
-      <link>http://glamcoder.org/conferences/codefest-2014/</link>
+      <link>https://glamcoder.org/conferences/codefest-2014/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/codefest-2014/</guid>
+      <guid>https://glamcoder.org/conferences/codefest-2014/</guid>
       <description>https://2014.codefest.ru/lecture/975/
 На этом мастер-классе вы сможете научиться работать с облачными технологиями и самостоятельно добавить в свое мобильное приложение такие полезные вещи, как: авторизация через соц сети, push-уведомления и облачный бекенд. Причем не только для Windows!
  </description>
@@ -170,10 +170,10 @@ Do you have a website? If yes then how do you test ideas that you want to implem
     
     <item>
       <title>[Russian] Мобильные сервисы, блобы и Windows 8. Храним данные в Windows Azure</title>
-      <link>http://glamcoder.org/conferences/codefest-2013/</link>
+      <link>https://glamcoder.org/conferences/codefest-2013/</link>
       <pubDate>Sun, 31 Mar 2013 00:00:00 -0400</pubDate>
       
-      <guid>http://glamcoder.org/conferences/codefest-2013/</guid>
+      <guid>https://glamcoder.org/conferences/codefest-2013/</guid>
       <description>https://2013.codefest.ru/lecture/51/
 В докладе будет на практическом примере рассказано о двух способах хранения данных мобильного приложения в Windows Azure. Для больших и редкоиспользуемых данных будет использоваться Azure Blob Storage, в то время как для данных мелкого объема мы воспользуемся Windows Azure Mobile Services. На примере приложения для Windows 8 и Windows Phone 8 будет показан способ работы с этими хранилищами с помощью .NET SDK и веб-сервисов.
  </description>
