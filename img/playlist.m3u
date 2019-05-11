@@ -1,99 +1,76 @@
-#EXTM3U
-#EXTINF:-1,Первый канал
-http://95.143.16.80:4022/udp/234.5.2.1:1234
-#EXTINF:-1,Россия 1 HD
-http://95.143.16.80:4022/udp/234.5.2.163:1234
-#EXTINF:-1,Россия 1
-http://95.143.16.80:4022/udp/234.5.2.2:1234
-#EXTINF:-1,Карусель
-http://95.143.16.80:4022/udp/234.5.2.3:1234
-#EXTINF:-1,НТВ
-http://95.143.16.80:4022/udp/234.5.2.4:1234
-#EXTINF:-1,Россия К
-http://95.143.16.80:4022/udp/234.5.2.5:1234
-#EXTINF:-1,Матч ТВ
-http://95.143.16.80:4022/udp/234.5.2.6:1234
-#EXTINF:-1,Наука 2.0
-http://95.143.16.80:4022/udp/234.5.2.7:1234
-#EXTINF:-1,Москва 24
-http://95.143.16.80:4022/udp/234.5.2.8:1234
-#EXTINF:-1,5 канал
-http://95.143.16.80:4022/udp/234.5.2.9:1234
-#EXTINF:-1,Россия 24
-http://95.143.16.80:4022/udp/234.5.2.10:1234
-#EXTINF:-1,ТВЦ
-http://95.143.16.80:4022/udp/234.5.2.11:1234
-#EXTINF:-1,ТНТ 4
-http://95.143.16.80:4022/udp/234.5.2.13:1234
-#EXTINF:-1,8 канал
-http://95.143.16.80:4022/udp/234.5.2.21:1234
-#EXTINF:-1,Eurosport 1
-http://95.143.16.80:4022/udp/234.5.2.27:1234
-#EXTINF:-1,Eurosport 2
-http://95.143.16.80:4022/udp/234.5.2.28:1234
-#EXTINF:-1,HD Life.
-http://95.143.16.80:4022/udp/234.5.2.45:1234
-#EXTINF:-1,Nickelodeon HD
-http://95.143.16.80:4022/udp/234.5.2.51:1234
-#EXTINF:-1,MTV Live HD
-http://95.143.16.80:4022/udp/234.5.2.56:1234
-#EXTINF:-1,FOX Life
-http://95.143.16.80:4022/udp/234.5.2.70:1234
-#EXTINF:-1,Extreme sports
-http://95.143.16.80:4022/udp/234.5.2.75:1234
-#EXTINF:-1,Еврокино
-http://95.143.16.80:4022/udp/234.5.2.92:1234
-#EXTINF:-1,Звезда
-http://95.143.16.80:4022/udp/234.5.2.94:1234
-#EXTINF:-1,Cartoon Network
-http://95.143.16.80:4022/udp/234.5.2.107:1234
-#EXTINF:-1,JimJam
-http://95.143.16.80:4022/udp/234.5.2.113:1234
-#EXTINF:-1,Nat Geo WILD
-http://95.143.16.80:4022/udp/234.5.2.114:1234
-#EXTINF:-1,Mатч! Арена
-http://95.143.16.80:4022/udp/234.5.2.117:1234
-#EXTINF:-1,RT HD
-http://95.143.16.80:4022/udp/234.5.2.119:1234
-#EXTINF:-1,Мир
-http://95.143.16.80:4022/udp/234.5.2.121:1234
-#EXTINF:-1,Bridge TV
-http://95.143.16.80:4022/udp/234.5.2.123:1234
-#EXTINF:-1,Disney
-http://95.143.16.80:4022/udp/234.5.2.124:1234
-#EXTINF:-1,Euronews
-http://95.143.16.80:4022/udp/234.5.2.125:1234
-#EXTINF:-1,КХЛ
-http://95.143.16.80:4022/udp/234.5.2.126:1234
-#EXTINF:-1,Пятница
-http://95.143.16.80:4022/udp/234.5.2.127:1234
-#EXTINF:-1,National Geographic
-http://95.143.16.80:4022/udp/234.5.2.128:1234
-#EXTINF:-1,Домашний
-http://95.143.16.80:4022/udp/234.5.2.133:1234
-#EXTINF:-1,Че
-http://95.143.16.80:4022/udp/234.5.2.138:1234
-#EXTINF:-1,Рен ТВ
-http://95.143.16.80:4022/udp/234.5.2.141:1234
-#EXTINF:-1,СТС
-http://95.143.16.80:4022/udp/234.5.2.143:1234
-#EXTINF:-1,ТВ3
-http://95.143.16.80:4022/udp/234.5.2.144:1234
-#EXTINF:-1,ТНТ
-http://95.143.16.80:4022/udp/234.5.2.146:1234
-#EXTINF:-1,2x2
-http://95.143.16.80:4022/udp/234.5.2.118:1234
-#EXTINF:-1,Nat Geo WILD HD
-http://95.143.16.80:4022/udp/234.5.2.49:1234
-#EXTINF:-1,Матч! HD
-http://91.202.196.122:8000/play/a018/index.m3u8
-#EXTINF:-1,Матч!
-http://176.111.66.70:1234/udp/224.1.1.3:1234
-#EXTINF:-1,Матч! Арена 2
-http://37.235.219.147:81/udp/225.50.64.42:1234
-#EXTINF:-1,Матч! Игра HD
-http://178.57.56.67:81/udp/239.195.5.204:1234
-#EXTINF:-1,Матч! Игра
-http://134.255.159.119:7781/udp/239.255.0.91:1234
-#EXTINF:-1,Матч Премьер
-http://185-125-230-172.livesports24.online/mpremierrus.m3u8
+#EXTM3U url-tvg="http://api.torrent-tv.ru/ttv.xmltv.xml.gz"
+#EXTINF:-1 group-title="HD" tvg-id="7663" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/2.png" tvg-name="Первый канал HD",Первый канал HD
+#EXTGRP:HD
+http://46.241.53.170:81/udp/239.54.5.61:1224
+#EXTINF:-1 group-title="HD" tvg-id="7665" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/1.png" tvg-name="Россия 1 HD",Россия 1 HD
+#EXTGRP:HD
+http://188.243.212.85:4444/udp/239.239.3.66:5239
+#EXTINF:-1 group-title="HD" tvg-id="13694" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/32.png" tvg-name="Матч! HD",Матч! HD
+#EXTGRP:HD
+http://5.130.84.29:81/udp/239.1.15.23:1234
+#EXTINF:-1 group-title="HD" tvg-id="1461" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/129.png" tvg-name="Матч! Игра HD",Матч! Игра HD
+#EXTGRP:HD
+http://178.163.62.36:81/udp/234.0.0.6:2000
+#EXTINF:-1 group-title="Новости" tvg-id="6449" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/200.png" tvg-name="Москва 24",Москва 24
+#EXTGRP:Новости
+http://109.248.67.80:4022/udp/239.195.0.94:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="1153" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/55.png" tvg-name="ТНТ",ТНТ
+#EXTGRP:Развлекательные
+http://video-4-306.rutube.ru/stream/10113616/546602986e6a424d74d594876ddb3f04/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="387" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/60.png" tvg-name="СТС",СТС
+#EXTGRP:Развлекательные
+http://188.243.72.131:81/udp/239.239.2.64:5239
+#EXTINF:-1 group-title="Детям;Развлекательные" tvg-id="390" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/4.png" tvg-name="2x2",2x2
+#EXTGRP:Развлекательные
+http://93.100.244.199:8000/udp/239.239.3.3:5239
+#EXTINF:-1 group-title="Развлекательные" tvg-id="388" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/8.png" tvg-name="Пятница",Пятница
+#EXTGRP:Развлекательные
+http://video-4-105.rutube.ru/stream/10113616/9f87a9a0cecbe773be6fddcbd93585ac/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="389" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/39.png" tvg-name="Че",Че
+#EXTGRP:Развлекательные
+http://109.201.119.216:7781/udp/234.109.202.2:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="10562" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/47.png" tvg-name="НТВ",НТВ
+#EXTGRP:Развлекательные
+http://live-4-102.rutube.ru/stream/10113616/42a58f895935bbf495089a2e1fe15e46/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные;HD" tvg-id="386" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/96.png" tvg-name="Рен ТВ",Рен ТВ
+#EXTGRP:Развлекательные
+http://ott-cdn.ucom.am/s85/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="924" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/58.png" tvg-name="Наука 2.0",Наука 2.0
+#EXTGRP:Развлекательные
+http://178.163.15.24:4022/udp/234.0.0.226:2000
+#EXTINF:-1 group-title="HD" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/94.png" tvg-name="HBO HD",HBO HD
+#EXTGRP:HD
+http://149.56.25.205:80/6303/6303/20694
+#EXTINF:-1 group-title="Спорт" tvg-id="383" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/43.png" tvg-name="Матч! Арена",Матч! Арена
+#EXTGRP:МатчТВ
+http://37.235.194.6:81/udp/225.50.64.42:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="406" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/170.png" tvg-name="Матч! Наш спорт",Матч! Наш спорт
+#EXTGRP:МатчТВ
+http://176.49.199.105:1234/udp/225.54.23.141:5000
+#EXTINF:-1 group-title="HD" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/193.png" tvg-name="Дождь HD",Дождь HD
+#EXTGRP:HD
+http://5.128.80.58:81/udp/239.1.13.19:1234
+#EXTINF:-1 group-title="HD" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/92.png" tvg-name="Рен ТВ HD",Рен ТВ HD
+#EXTGRP:HD
+http://31.41.96.36:81/udp/225.0.56.96:1234
+#EXTINF:-1 group-title="HD" tvg-id="21007" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/11.png" tvg-name="Discovery Science HD",Discovery Science HD
+#EXTGRP:HD
+http://31.41.96.36:81/udp/225.0.56.24:1234
+#EXTINF:-1 group-title="HD" tvg-id="3449" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/18.png" tvg-name="Discovery Channel HD",Discovery Channel HD
+#EXTGRP:HD
+http://31.41.96.36:81/udp/225.0.56.23:1234
+#EXTINF:-1 group-title="HD" tvg-id="10366" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/28.png" tvg-name="Планета HD",Планета HD
+#EXTGRP:HD
+http://91.190.177.174:81/udp/239.195.4.50:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="6886" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/38.png" tvg-name="Матч!",Матч!
+#EXTGRP:МатчТВ
+http://212.113.232.3:4022/udp/239.0.10.25:1234
+#EXTINF:-1 group-title="Новости" tvg-id="7662" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/154.png" tvg-name="Первый канал",Первый канал
+#EXTGRP:Новости
+http://188.243.189.238:81/udp/239.239.1.64:5239
+#EXTINF:-1 group-title="Новости" tvg-id="7664" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/177.png" tvg-name="Россия 1",Россия 1
+#EXTGRP:Новости
+http://109.248.67.80:4022/udp/239.195.59.2:1234
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/93.png" tvg-name="HBO",HBO
+#EXTGRP:Развлекательные
+http://tv.factoryiptv.com:80/jorge185/jorge185/37087
